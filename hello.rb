@@ -1,4 +1,4 @@
 # Por defecto Mundo
 # Autor: desi
-name = ARGV.first || "World"
-puts "Hello, #{ARGV.first}!"
+name = ARGV.first || "Mundo"
+puts "Hola, #{ARGV.first}!"
